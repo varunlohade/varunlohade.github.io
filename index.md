@@ -137,7 +137,6 @@
       "thumbnail": "https://b.thumbs.redditmedia.com/sY0us61s_1oXRGdQWsjO1BB6ogup0NS2dXBWzmxqtgQ.jpg",
       "source": "ujalacygnus.com"
     },
-
     {
       "domain": "https://www.yahoo.com/news/human-ageing-process-biologically-reversed-153921785.html",
       "selftext": "",
